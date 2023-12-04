@@ -1,4 +1,4 @@
-Personal webpage of [Raghav Arora](raraghavarora.github.io)
+Personal webpage of [Nirlipta Pande](nirliptapande.github.io)
 
 Made using: [Minimal Mistakes][1]
 [![Minimal Mistakes live preview][2]][1]
