@@ -12,23 +12,23 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raghav Arora"
+title                    : "Nirlipta Pande"
 title_separator          : "-"
-name                     : "Raghav Arora"
+name                     : "Nirlipta Pande"
 description              : "Portfolio website containing my information about me as well as my projects. You can find my CV and contact information here as well."
-url                      : "https://raraghavarora.github.io"
+url                      : "https://nirliptapande.github.io"
 baseurl                  : 
-gh_repo                  : "https://github.com/RAraghavarora/RAraghavarora.github.io"
+gh_repo                  : "https://github.com/nirliptapande/nirliptapande.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # remote_theme             : mmistakes/minimal-mistakes@4.24.0
 theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # breadcrumbs            :  # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
-    shortname            : "Raghav"
+    shortname            : "Nirlipta"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -75,7 +75,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : Raghav_Arora_
+  username               : NirliptaPande
 facebook:
   username               :
   app_id                 :
@@ -101,11 +101,11 @@ github: [metadata]
 
 # Site Author
 author:
-  name             : "Raghav Arora"
-  avatar           : "images/profile.jpg"
-  bio              : Research Engineer at <a href="https://robotics.iiit.ac.in/" target="_blank">Robotics Research Centre, IIIT Hyderabad</a>. 2022 graduate from BITS Pilani, with B.E. Electrical and Electronics Engineering, and M.Sc Chemistry.
+  name             : "Nirlipta Pande"
+  avatar           : "images/dp.jpg"
+  bio              : Adding causal reasoning to remote sensing models at <a href="https://www.tuwien.at/en/mg/geo/climers" target="_blank">CLIMERS, TU Wien</a>. 2022 graduate from BITS Pilani, with B.E. Computer Science, and M.Sc Economics.
   location         :
-  email            : "raRaghavAurora@gmail.com"
+  email            : "nirliptapande@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -113,29 +113,29 @@ author:
   flickr           :
   # facebook         : RaghavArora0
   foursquare       :
-  github           : "RAraghavarora"
+  github           : "nirliptapande"
   google_plus      :
   keybase          :
-  instagram        : "RAraghavarora"
+  # instagram        : "RAraghavarora"
   lastfm           :
-  linkedin         : "RAraghavarora"
+  linkedin         : "nirliptapande"
   pinterest        :
   soundcloud       :
   # stackoverflow    : 5961353/raghav-arora
   steam            :
   tumblr           :
-  twitter          : Raghav_Arora_
+  twitter          : nirliptapande
   vine             :
   weibo            :
   xing             :
   youtube          :
-  links:
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.in/citations?user=EwGiQeIAAAAJ"
-    - label: "Lichess"
-      icon: "fas fa-fw fa-chess"
-      url: "https://lichess.org/@/RA_raghavarora"
+  # links:
+    # - label: "Google Scholar"
+      # icon: "fas fa-fw fa-graduation-cap"
+      # url: "https://scholar.google.co.in/citations?user=EwGiQeIAAAAJ"
+    # - label: "Lichess"
+      # icon: "fas fa-fw fa-chess"
+      # url: "https://lichess.org/@/RA_raghavarora"
   # lichess          : RA_raghavarora
 
 
