@@ -5,6 +5,7 @@ gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "webrick", "~> 1.7"
 gem 'font-awesome-rails'
+gem 'jekyll-redirect-from' # Redirect pages
 # gem "jekyll-archives"
 gem "minimal-mistakes-jekyll"
 gem "faraday-retry"
