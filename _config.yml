@@ -22,7 +22,7 @@ gh_repo                  : "https://github.com/nirliptapande/nirliptapande.githu
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # remote_theme             : mmistakes/minimal-mistakes@4.24.0
 theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # breadcrumbs            :  # true, false (default)
 words_per_minute         : 200
 comments:
@@ -226,6 +226,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -234,7 +235,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+  - jekyll-redirect-from
 
 # Archives
 #  Type
