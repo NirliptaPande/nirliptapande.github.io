@@ -129,10 +129,10 @@ author:
   weibo            :
   xing             :
   youtube          :
-  # links:
-    # - label: "Google Scholar"
-      # icon: "fas fa-fw fa-graduation-cap"
-      # url: "https://scholar.google.co.in/citations?user=EwGiQeIAAAAJ"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.co.in/citations?user=POUELusAAAAJ"
     # - label: "Lichess"
       # icon: "fas fa-fw fa-chess"
       # url: "https://lichess.org/@/RA_raghavarora"
