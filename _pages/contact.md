@@ -6,12 +6,9 @@ title: "Contact"
 ---
 
 <!-- <img align="right" src="/images/dp.jpg" alt="My Picture" width="200"/> -->
-Hi, I am Nirlipta, a researcher in Computer Science. My research interests include understanding causal structures and representations under AI models, and developing models with causal reasoning capabilities.
-</br>
-Apart from research, I love painting and reading.
-</br>
-I will be sharing some of my artwork on the website soon!
-</br>
+Hi, I am Nirlipta, a researcher in Computer Science. My research interests include understanding causal structures and representations under AI models, and developing models with causal reasoning capabilities.  
+Apart from research, I love painting and reading.  
+I will be sharing some of my artwork on the website soon!  
 Feel free to contact me to talk about research, or painting via email: nirliptapande@gmail.com.
 
 <!-- 
