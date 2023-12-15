@@ -9,7 +9,7 @@ title: "Contact"
 Hi, I am Nirlipta, a researcher in Computer Science. My research interests include understanding causal structures and representations under AI models, and developing models with causal reasoning capabilities.  
 Apart from research, I love painting and reading.  
 I will be sharing some of my artwork on the website soon!  
-Feel free to contact me to talk about research, or painting via email: nirliptapande@gmail.com.
+Feel free to contact me to talk about research, or painting via email: [nirliptapande@gmail.com](mailto:nirliptapande@gmail.com)
 
 <!-- 
 I am not much active on the social media handles, but can sometimes respond on LinkedIn. Feel free to contact me for any potential research collaborations, or for a quick chess match at lichess ;-\)
