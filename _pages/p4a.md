@@ -15,13 +15,13 @@ Well, these paintings are my way to retorting to John. I am on Hank's side when 
 13 years ago, John went on to write a book titled [Zombicorns](https://www.goodreads.com/en/book/show/10268370), which (again in the words of John himself), is "steaming mess of prose". Go ahead, read that novella (Disclaimer: The book is not about unicorns)
 
 ### Image 1:  
-![Unicorn Sample 1](/images/p4a/unicorn1.jpg)  
+![Unicorn Sample 1](/images/P4A/unicorn1.jpg)  
 
 ### Image 2:  
-![Unicorn Sample 2](/images/p4a/unicorn2.jpg)  
+![Unicorn Sample 2](/images/P4A/unicorn2.jpg)  
 
 ### Image 3:  
-![Unicorn Sample 1](/images/p4a/unicorn3.jpg)  
+![Unicorn Sample 1](/images/P4A/unicorn3.jpg)  
 
 
 
