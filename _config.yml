@@ -76,17 +76,6 @@ baidu_site_verification  :
 # Social Sharing
 twitter:
   username               : NirliptaPande
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -104,47 +93,24 @@ author:
   name             : "Nirlipta Pande"
   avatar           : "images/dp.jpg"
   bio              : Adding causal reasoning to remote sensing models at <a href="https://www.tuwien.at/en/mg/geo/climers" target="_blank">CLIMERS, TU Wien</a>. 2022 graduate from BITS Pilani, with B.E. Computer Science, and M.Sc Economics.
-  location         :
   email            : "nirliptapande@gmail.com"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  # facebook         : RaghavArora0
-  foursquare       :
   github           : "nirliptapande"
-  google_plus      :
-  keybase          :
-  # instagram        : "RAraghavarora"
-  lastfm           :
   linkedin         : "nirliptapande"
-  pinterest        :
-  soundcloud       :
-  # stackoverflow    : 5961353/raghav-arora
-  steam            :
-  tumblr           :
   twitter          : nirliptapande
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.co.in/citations?user=POUELusAAAAJ"
-    # - label: "Lichess"
-      # icon: "fas fa-fw fa-chess"
-      # url: "https://lichess.org/@/RA_raghavarora"
-  # lichess          : RA_raghavarora
-
 
 # ABOUT ME
 book:
   title: "Humble Pie"
   link: "https://www.goodreads.com/en/book/show/39074550"
 
-
+#Collections
+collections: 
+  portfolio:
+    umbrella_topic: true
 
 # Reading Files
 include:
@@ -295,3 +261,11 @@ defaults:
       comments: true
       share: true
       related: true
+  #_portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true

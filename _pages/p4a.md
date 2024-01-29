@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /p4a/
 classes: wide
 title: "Project 4 Awesome"
