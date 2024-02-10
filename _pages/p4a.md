@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Project4Awesome
 layout: collection
 permalink: /p4a/
 collection: portfolio
