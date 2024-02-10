@@ -30,6 +30,6 @@ feature_row:
     excerpt: "NYT bestselling author John Green thinks that unicorns are evil, so much that even zombies are better than unicorns. This art piece is my strong stance against the unjust villification of the harmless, glorious creatures ...
     "
 ---
-Hi, thank you for contributing to decreasing world suck. Your perk is an original artpiece in gouache, inks and watercolors accompanied by a handmade bracelet, all made by me. I hope it finds a new home in your heart and your home. You can find the broader theme of the art work below and how it came to be. Every theme has their indivudal page with related links
+Hi, thank you for contributing to decreasing world suck. Your perk is an original artpiece in gouache, inks and watercolors accompanied by a handmade bracelet, all made by me. I hope it finds a new home in your heart and your home. You can find the broader theme of the art work below and how it came to be. The description of every artwork is written with utmost sincerity and what I would want to talk about if I ever meet them. 
 
 {% include feature_row%}
