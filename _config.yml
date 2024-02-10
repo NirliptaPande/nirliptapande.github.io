@@ -109,7 +109,7 @@ book:
 
 #Collections
 collections: 
-  portfolio:
+  p4a:
     umbrella_topic: true
 
 # Reading Files
@@ -240,7 +240,7 @@ compress_html:
     envs: development
 
 # Pages
-include: ["_pages", "_dftb", "_posts"]
+include: ["_pages", "_posts","_p4a"]
 
 defaults:
   # _pages
