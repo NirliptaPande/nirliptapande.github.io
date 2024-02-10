@@ -240,7 +240,7 @@ compress_html:
     envs: development
 
 # Pages
-include: ["_pages", "_posts"]
+include: ["_pages", "_posts","_p4a"]
 
 defaults:
   # _pages
