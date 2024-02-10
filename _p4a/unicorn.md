@@ -3,7 +3,7 @@ title: Team Unicorn
 layout: single
 sitemap: false
 classes: wide
-permalink: /p4a/unicorn
+permalink: /p4a/unicorn/
 feature_row:
   - image_path: /images/p4a/unicorn1.jpg
   - image_path: /images/p4a/unicorn2.jpg

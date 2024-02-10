@@ -3,7 +3,7 @@ title: Sunsets
 layout: single
 sitemap: false
 classes: wide
-permalink: /p4a/sunsets
+permalink: /p4a/sunsets/
 feature_row:
   - image_path: /images/p4a/sunsets1.jpg
   - image_path: /images/p4a/sunsets2.jpg

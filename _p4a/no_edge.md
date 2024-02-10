@@ -3,7 +3,7 @@ title: No Edge!!!
 layout: single
 sitemap: false
 classes: wide
-permalink: /p4a/no_edge
+permalink: /p4a/no_edge/
 feature_row:
   - image_path: /images/p4a/no_edge1.jpg
   - image_path: /images/p4a/no_edge2.jpg
