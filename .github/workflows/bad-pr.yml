@@ -12,7 +12,7 @@ jobs:
       - uses: actions-ecosystem/action-add-labels@v1
         with:
           labels: 'Type: Invalid'
-      - uses: superbrothers/close-pull-request@v3
+      - uses: superbrothers/close-pull-request@v4
         with:
           # Optional. Post an issue comment just before closing a pull request.
           comment: |
