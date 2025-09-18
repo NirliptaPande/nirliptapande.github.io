@@ -15,7 +15,7 @@ locale                   : "en-US"
 title                    : "Nirlipta Pande"
 title_separator          : "-"
 name                     : "Nirlipta Pande"
-description              : "Portfolio website containing my information about me as well as my projects. You can find my CV and contact information here as well."
+description              : "Portfolio website containing my information about me."
 url                      : "https://nirliptapande.github.io"
 baseurl                  : 
 gh_repo                  : "https://github.com/nirliptapande/nirliptapande.github.io"
@@ -92,8 +92,8 @@ github: [metadata]
 author:
   name             : "Nirlipta Pande"
   avatar           : "images/dp.jpg"
-  bio              : Adding causal reasoning to remote sensing models at <a href="https://www.tuwien.at/en/mg/geo/climers" target="_blank">CLIMERS, TU Wien</a>. 2022 graduate from BITS Pilani, with B.E. Computer Science, and M.Sc Economics.
-  email            : "nirliptapande@gmail.com"
+  bio              : Understanding compositionality in vision at <a href="https://www.tugraz.at/institute/iml/home/" target="_blank">IML, TU Graz</a>. 2022 graduate from BITS Pilani, with B.E. Computer Science, and M.Sc Economics.
+  email            : "nirliptapande@protonmail.com"
   github           : "nirliptapande"
   linkedin         : "nirliptapande"
   twitter          : nirliptapande
@@ -103,9 +103,6 @@ author:
       url: "https://scholar.google.co.in/citations?user=POUELusAAAAJ"
 
 # ABOUT ME
-book:
-  title: "Humble Pie"
-  link: "https://www.goodreads.com/en/book/show/39074550"
 
 #Collections
 collections: 

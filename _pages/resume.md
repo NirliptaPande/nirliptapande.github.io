@@ -1,5 +1,5 @@
 ---
 permalink: /resume/
 title: "Resume"
-redirect_to: /PDFs/Nirlipta_Pande_CV.pdf
+redirect_to: /PDFs/NirliptaPande_CV.pdf
 ---

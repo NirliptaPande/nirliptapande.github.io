@@ -2,9 +2,10 @@
 permalink: /about/
 title: "About"
 ---
-### Mission Statement
-This website is my portfolio, I will update my latest resume and CV here. This is also a place where I can share my passion for different topics that interest me. I will share details of my projects as well as the stuff that intrigues me.
+### About Me
+Hi, I am Nirlipta! I am an ELLIS doctoral candidate under the Bilateral consortium at TU Graz with <a href="https://robert-peharz.github.io/" style="color: #0074cc; text-decoration: none;">Robert Peharz</a>. I am interested in introducing compositionality in visual perception and in the temporal domain. Some of the questions I find interesting to answer are if compositional representations and causal representations converge, and if so, can we recover these representations on the fly and recombine them to learn time eveolving systems. As a part of my PhD, I am currently looking at the <a href="https://arcprize.org/" style="color: #0074cc; text-decoration: none;">ARC challenge</a> from a similar perspective.
 
 
-### How to Contact
-My contact information is on the left side of the window, where the author profile is displayed. There is also a separate [contact page](/contact/) with the necessary links. In addition, there is a comments section under every blog post. I welcome all feedback and discussion!
+### Contact
+I am always interested to talk about research and collaborations! 
+Feel free to contact me to talk about research or art via email: [nirliptapande@protonmail.com](mailto:nirliptapande@protonmail.com) or [contact page](/contact/)!
